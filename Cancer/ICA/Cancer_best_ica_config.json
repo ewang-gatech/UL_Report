@@ -1,0 +1,5 @@
+{
+    "n_components": 10,
+    "knn_accuracy": 0.12,
+    "avg_mutual_info": 0.05948356434809615
+}

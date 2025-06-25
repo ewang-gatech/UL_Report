@@ -1,0 +1,7 @@
+{
+    "n_components": 10,
+    "knn_accuracy": 0.13,
+    "cutoff_component_index": 6,
+    "cumulative_explained_variance": 0.3691,
+    "threshold": 0.05
+}

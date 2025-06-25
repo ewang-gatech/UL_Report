@@ -1,0 +1,5 @@
+{
+    "n_components": 20,
+    "distance_metric": "manhattan",
+    "knn_accuracy": 0.703030303030303
+}
