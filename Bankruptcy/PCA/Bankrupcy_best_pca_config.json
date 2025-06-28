@@ -3,5 +3,28 @@
     "knn_accuracy": 0.8545454545454545,
     "cutoff_component_index": 4,
     "cumulative_explained_variance": 0.3586,
-    "threshold": 0.05
+    "threshold": 0.05,
+    "breakdown": {
+        "PC1": {
+            " Per Share Net profit before tax (Yuan \u00a5)": 0.2194,
+            " Net profit before tax/Paid-in capital": 0.2193,
+            " Persistent EPS in the Last Four Seasons": 0.2168,
+            " ROA(A) before interest and % after tax": 0.2166,
+            " ROA(C) before interest and depreciation before interest": 0.2153
+        },
+        "PC2": {
+            " Liability to Equity": 0.3411,
+            " Current Liabilities/Equity": 0.3354,
+            " Current Liability to Equity": 0.3354,
+            " Borrowing dependency": 0.3228,
+            " Working Capital/Equity": -0.3149
+        },
+        "PC3": {
+            " Total Asset Turnover": 0.2934,
+            " Revenue Per Share (Yuan \u00a5)": 0.2887,
+            " Net Worth Turnover Rate (times)": 0.2822,
+            " Current Liability to Assets": 0.2466,
+            " Current Assets/Total Assets": 0.2276
+        }
+    }
 }

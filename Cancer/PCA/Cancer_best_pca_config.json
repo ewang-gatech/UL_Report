@@ -3,5 +3,77 @@
     "knn_accuracy": 0.13,
     "cutoff_component_index": 6,
     "cumulative_explained_variance": 0.3691,
-    "threshold": 0.05
+    "threshold": 0.05,
+    "breakdown": {
+        "PC1": {
+            "Target_Severity_Score": 0.6835,
+            "Genetic_Risk": 0.3714,
+            "Smoking": 0.3091,
+            "Treatment_Cost_USD": -0.2714,
+            "Alcohol_Use": 0.2591
+        },
+        "PC2": {
+            "Gender_Female": 0.6876,
+            "Gender_Male": -0.6447,
+            "Smoking": 0.1897,
+            "Country_Region_Germany": 0.1377,
+            "Genetic_Risk": -0.1025
+        },
+        "PC3": {
+            "Gender_Other": 0.7561,
+            "Gender_Male": -0.4043,
+            "Gender_Female": -0.3328,
+            "Country_Region_Russia": 0.196,
+            "Survival_Years": 0.1936
+        },
+        "PC4": {
+            "Age": 0.3959,
+            "Country_Region_Australia": -0.3571,
+            "Year": 0.3429,
+            "Country_Region_China": 0.3305,
+            "Survival_Years": -0.2939
+        },
+        "PC5": {
+            "Country_Region_Australia": 0.4866,
+            "Treatment_Cost_USD": -0.4585,
+            "Country_Region_Russia": -0.3628,
+            "Obesity_Level": -0.315,
+            "Country_Region_USA": -0.2955
+        },
+        "PC6": {
+            "Country_Region_Pakistan": 0.4698,
+            "Country_Region_Brazil": -0.4444,
+            "Smoking": -0.3136,
+            "Cancer_Stage_Int": 0.2963,
+            "Country_Region_Canada": -0.2621
+        },
+        "PC7": {
+            "Country_Region_USA": 0.4598,
+            "Age": 0.3525,
+            "Country_Region_UK": -0.3418,
+            "Country_Region_Russia": -0.3033,
+            "Smoking": 0.2364
+        },
+        "PC8": {
+            "Country_Region_UK": 0.3778,
+            "Country_Region_Pakistan": -0.3219,
+            "Country_Region_Canada": -0.3219,
+            "Country_Region_Germany": -0.2973,
+            "Country_Region_India": 0.2947
+        },
+        "PC9": {
+            "Country_Region_Canada": 0.4729,
+            "Country_Region_Germany": -0.4565,
+            "Country_Region_Pakistan": 0.3656,
+            "Country_Region_India": 0.3136,
+            "Country_Region_USA": -0.2736
+        },
+        "PC10": {
+            "Country_Region_India": 0.5162,
+            "Country_Region_Germany": 0.4117,
+            "Country_Region_Canada": -0.3937,
+            "Country_Region_China": -0.3374,
+            "Country_Region_Pakistan": 0.2911
+        }
+    }
 }

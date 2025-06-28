@@ -1,5 +1,9 @@
 {
     "n_components": 2,
     "knn_accuracy": 0.8545454545454545,
-    "avg_mutual_info": 0.4982728883340428
+    "avg_mutual_info": 0.4982728883340428,
+    "component_kurtosis": [
+        25.71731999804801,
+        67.56174891029296
+    ]
 }

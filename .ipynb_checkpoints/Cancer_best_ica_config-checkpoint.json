@@ -2,6 +2,7 @@
     "n_components": 10,
     "knn_accuracy": 0.12,
     "avg_mutual_info": 0.05948356434809615,
+    "avg_abs_kurtosis": 1.037321163441666,
     "component_kurtosis": [
         -1.211735835313365,
         -1.1372366493218524,
